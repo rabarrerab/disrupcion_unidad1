@@ -1,7 +1,7 @@
 # Referencias
 
 
-[](http://definicion.de/disruptivo/)
+[http://definicion.de/disruptivo/](http://definicion.de/disruptivo/)
 [](https://es.wikipedia.org/wiki/Tecnolog%C3%ADa_disruptiva)
 [](http://www.emprendedores.es/gestion/como-ser-un-negocio-disruptivo)
 [](http://www.uv-mdap.com/blog/pensamientos-disruptivos/)
