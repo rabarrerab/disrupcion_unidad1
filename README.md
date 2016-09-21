@@ -1,3 +1,18 @@
-# My Awesome Book
+# disrupción digital
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+#Estudiante
+
+##Rodrigo Alexander Barrera Bejarano
+
+#Docente
+
+##Roberto Mauricio Cardenas
+
+#Curso
+
+#Tendencias Disruptivas en TI
+
+#Bogotá D.C.
+
+Este documento muestra la respuesta a algunos cuestionamientos sobre disrupción digital
