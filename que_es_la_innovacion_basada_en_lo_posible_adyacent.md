@@ -1,2 +1,3 @@
 # ¿Qué es la innovación basada en lo posible adyacente?
 
+La innovación basada en el posible adyacente es una creación de algo nuevo basado o generado a partir de la combinación de cosas existentes siempre dando un valor nuevo y fresco posando la mirada hacia el futuro, en algunos casos estas ideas disruptivas no son asimiladas por el mercado actual sin embargo puede surgir en un futuro cambiando y transformándose según las nuevas tendencias y necesidades.
