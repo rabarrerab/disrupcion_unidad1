@@ -1,3 +1,4 @@
-# First Chapter
+# ¿Qué es la disrupción digital?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+“una tecnología disruptiva es aquella que convierta en obsoleta una tecnología existente, cambiando desde la forma de operar hasta incluso el propio tejido industrial” PATRICIA LÓPEZ VICENTE (2009): Tecnologías Disruptivas. Mirando el futuro Tecnológico. En Boletín de Observación Tecnológica en Defensa nº 25, pp 16-19.) También puede suceder que se produzca un nuevo enfoque en el uso de una tecnología ya existente, así “una disrupción implica utilizar un enfoque radicalmente diferente a la hora de abordar un problema de forma que se obtenga una ventaja competitiva”. ( Ibídem. 8 Documento de Trabajo del Centro Superior de Estudios de la Defensa Nacional (CESEDEN))
+Según la Real Academia Española, algo disruptivo es aquello que produce una brusca ruptura, una estrategia de innovación disruptiva es más que la innovación, porque debe romper con lo que había antes de ella. Debe ser la generadora de nuevos procesos, mercados, consumidores, etc.
